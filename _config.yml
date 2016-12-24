@@ -1,12 +1,12 @@
-url: https://IzaakBeekman.com
-enforce_ssl: IzaakBeekman.com
-baseurl:
+url: https://craftyclark.github.io
+##enforce_ssl: IzaakBeekman.com
+baseurl: /testrep/
 
-exclude: [Gemfile, Gemfile.lock]
+#exclude: [Gemfile, Gemfile.lock]
 
 # Site settings
-title: Izaak Beekman
-email: zbeekman@gmail.com
+title: Andrew Clark
+email: andrewclark.ku@gmail.com
 description: "Izaak Beekman: Aerospace Engineer, Programmer, Data Scientist"
 
 # Color settings (hex-codes without the leading hash-tag)
